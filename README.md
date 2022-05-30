@@ -1,2 +1,2 @@
 # Portfolio
-up to date
+Coontent About , Our Work(documentation , progress report) ,& how to contact us
