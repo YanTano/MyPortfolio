@@ -526,7 +526,7 @@ label.fcf-label {
 
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
-}
+}}
 
 
 
@@ -535,9 +535,6 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
     width: 8%;
   border: 2px solid #007bff;
   cursor: pointer;
-}
-.fb img {
-
 }
 #confb{
     text-align: center;
