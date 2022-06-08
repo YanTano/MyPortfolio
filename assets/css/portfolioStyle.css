@@ -487,6 +487,7 @@ label.fcf-label {
     .fcf-btn {
         transition: none;
     }
+}
 
 .fcf-btn:hover {
     color: #212529;
