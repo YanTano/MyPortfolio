@@ -1,2 +1,2 @@
-# Portfolio https://yantano.github.io/MyPortfolio/My%20Portfolio/portfolio.html
+# Portfolio https://yantano.github.io/portfolio/portfolio.htm
 Coontent About , Our Work(documentation , progress report) ,& how to contact us
